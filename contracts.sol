@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.8.9;
 
 /* 
 
@@ -14,4 +14,7 @@ Challenge:
 
 contract Nft_creation {
   
+  // create contract and impose a limit on number of transactions possible of NFT creation
+
+
 }
