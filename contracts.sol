@@ -16,5 +16,15 @@ contract Nft_creation {
   
   // create contract and impose a limit on number of transactions possible of NFT creation
 
-
+  int public numberOfNft;
+    
+    constructor(int memory intialNumber) {
+        numberOfNft = initialNumber;
+    }
+    
+    /* function setMessage(string memory newMessage) public {
+        message = newMessage;
+    }
+    */
+    
 }
