@@ -25,6 +25,10 @@ contract Nft_creation {
     /* function setMessage(string memory newMessage) public {
         message = newMessage;
     }
+
+    function Mint public { // mint cost to go for the user
+
+    }
     */
-    
+
 }
