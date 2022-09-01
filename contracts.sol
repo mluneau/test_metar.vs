@@ -20,6 +20,7 @@ contract Nft_creation {
     
     constructor(int memory intialNumber) {
         numberOfNft = initialNumber;
+        maximumMint = 100;
     }
     
     /* function setMessage(string memory newMessage) public {
